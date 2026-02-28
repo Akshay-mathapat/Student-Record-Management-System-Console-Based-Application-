@@ -60,3 +60,5 @@ python student_record_system.py
 
 Beginner-Level Python Console Application
 Ideal for understanding structured programming and data management fundamentals.
+
+<img width="1024" height="1536" alt="ChatGPT Image Feb 28, 2026, 06_47_02 PM" src="https://github.com/user-attachments/assets/f6251234-9527-43bb-a787-e90ee1e3d359" />
